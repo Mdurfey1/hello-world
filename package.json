@@ -1,0 +1,22 @@
+{
+  "name": "image-scraper",
+  "version": "1.0.0",
+  "description": "this is my hello-world app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdurfey1/hello-world.git"
+  },
+  "author": "michael and george",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdurfey1/hello-world/issues"
+  },
+  "homepage": "https://github.com/Mdurfey1/hello-world#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
